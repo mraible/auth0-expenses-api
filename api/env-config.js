@@ -29,7 +29,7 @@ function removeTrailingSlashFromUrl(url) {
 }
 
 console.log("\n----------------------------------");
-console.log("Envronment Settings:");
+console.log("Environment Settings:");
 console.log(`APP_URL: ${appUrl}`);
 console.log(`ISSUER_BASE_URL: ${ISSUER_BASE_URL}`);
 console.log(`ALLOWED_AUDIENCES: ${ALLOWED_AUDIENCES}`);
